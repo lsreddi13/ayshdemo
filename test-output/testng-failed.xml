@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.test.oops.DemoOverLoading">
+      <class name="com.selenium.DemoWebelementMethods">
         <methods>
-          <include name="testInvalidLogin"/>
+          <include name="testWebelementMethods"/>
         </methods>
-      </class> <!-- com.test.oops.DemoOverLoading -->
+      </class> <!-- com.selenium.DemoWebelementMethods -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
